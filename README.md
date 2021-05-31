@@ -5,8 +5,10 @@ cd Psy
 chmod +x * 
 
 user-psy - automatically updates and upgrades your terminal
-/nvcs - turns on the vncserver
-/nvskill - kills the running vncserver
+
+vcs - turns on the vncserver
+
+vskill - kills the running vncserver
 
 you can use these shortcuts by typing
 ./ (filename)

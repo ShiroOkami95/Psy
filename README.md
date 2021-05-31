@@ -4,7 +4,7 @@ Shortcuts for the mofo
 cd Psy
 chmod +x * 
 
-user-psy - automatically updates and upgrades your terminal
+user-psy - automatically updates and        upgrades your terminal
 
 vcs - turns on the vncserver
 
